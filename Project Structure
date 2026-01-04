@@ -1,0 +1,9 @@
+vdubs-by-the-bay/
+├── index.html
+├── package.json
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx      <-- FULL app code, ready to deploy
+│   └── index.css
+└── assets/
+    └── logo.png      <-- Optional event logo

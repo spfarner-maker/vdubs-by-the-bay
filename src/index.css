@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #e0f2fe;
+}
+button {
+  cursor: pointer;
+}
+input, select {
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
